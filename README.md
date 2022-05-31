@@ -1,16 +1,15 @@
-### Hi there 👋
+# hi, I'm Julia 🌷✨
 
-<!--
-**juliazib/juliazib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### here are some quick facts about me:
+- 💻 I'm currently learning Web Development
+- 📖 I'm passionate about learning new things
+- 🧩 I'm always open to challenges
+- 🎙️󠁧󠁢󠁳󠁣󠁴󠁿 I have a podcast about Scottish History
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://github.com/juliazib">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliazib&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliazib&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
